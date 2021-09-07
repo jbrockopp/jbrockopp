@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3 align="center">
+  Welcome to Jordan Brockopp's GitHub profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=0000FF&font=epilogue&size=25&lines=Doer%20Of%20Things!;Full%20Stack%20Developer!!;Open-Source%20Enthusiast!!!;Thank%20You%20For%20Visiting!!!!"></a>
+</p>
 
 <!--
 **jbrockopp/jbrockopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
