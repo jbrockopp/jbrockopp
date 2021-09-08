@@ -52,10 +52,10 @@
     <img alt="My Profile Visits" src="https://badges.pufler.dev/visits/jbrockopp/jbrockopp?label=Profile%20Visits&color=orange"/>
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img alt="My Profile Views" src="https://komarev.com/ghpvc/?username=jbrockopp&label=Profile+Views&color=green"/>
+    <img alt="My Profile Views" src="https://komarev.com/ghpvc/?username=jbrockopp&label=Profile+Views&color=orange"/>
   </a>
   <a href="https://github.com/gjbae1212/hit-counter">
-    <img alt="My Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjbrockopp&title=Profile%20Hits&count_bg=%23FF00FF&icon=&icon_color=%23FFC62F"/>
+    <img alt="My Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjbrockopp&title=Profile%20Hits&count_bg=%23FE7D37"/>
   </a>
 </p>
 
