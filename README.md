@@ -35,27 +35,27 @@
     <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbrockopp&custom_title=My%20GitHub%20Stats&hide_border=true&theme=cobalt&show_icons=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrockopp&custom_title=My%20Top%20Languages&hide_border=true&theme=cobalt"/>
+    <img align="center" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrockopp&custom_title=My%20Top%20Languages&hide_border=true&theme=cobalt&layout=compact"/>
   </a>
-  <br/>
+  <br/><br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 <p align="center">
-  <a href="https://github.com/jbrockopp">
-    <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jbrockopp&custom_title=My%20%20Contribution%20Graph&bg_color=193549&color=e683d9&line=75eeb2&point=0480ef&hide_border=true"/>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jbrockopp&custom_title=My%20%20Contribution%20Graph&hide_border=true&bg_color=193549&color=e683d9&line=75eeb2&point=0480ef&area=true"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jbrockopp">
-    <img alt="My Profile Visits" src="https://badges.pufler.dev/visits/jbrockopp/jbrockopp?color=orange&logo=github"/>
+  <a href="https://github.com/puf17640/git-badges">
+    <img alt="My Profile Visits" src="https://badges.pufler.dev/visits/jbrockopp/jbrockopp?label=Profile%20Visits&color=orange"/>
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img alt="My Profile Views" src="https://komarev.com/ghpvc/?username=JordanBrockopp&color=green"/>
+    <img alt="My Profile Views" src="https://komarev.com/ghpvc/?username=jbrockopp&label=Profile+Views&color=green"/>
   </a>
-  <a href="https://github.com/jbrockopp">
-    <img alt="My Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjbrockopp&count_bg=%23FF00FF&icon=&icon_color=%23FFC62F&title=hits&edge_flat=false"/>
+  <a href="https://github.com/gjbae1212/hit-counter">
+    <img alt="My Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjbrockopp&title=Profile%20Hits&count_bg=%23FF00FF&icon=&icon_color=%23FFC62F"/>
   </a>
 </p>
 
