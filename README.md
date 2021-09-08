@@ -4,33 +4,53 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=0000FF&font=epilogue&size=25&lines=Doer%20Of%20Things!;Full%20Stack%20Developer!!;Open-Source%20Enthusiast!!!;Thank%20You%20For%20Visiting!!!!"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=0000FF&font=epilogue&size=25&lines=Doer%20Of%20Things!;Full%20Stack%20Developer!!;Open-Source%20Enthusiast!!!;Thank%20You%20For%20Visiting!!!!"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jbrockopp"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:jdbro94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.facebook.com/jordan.brockopp/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jordan-brockopp-715107a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://m.me/JordanBrockopp/"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
-  <a href="https://gophers.slack.com/team/UE43D5DUG/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+  <a href="https://www.facebook.com/jordan.brockopp/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jbrockopp">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:jdbro94@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jordan-brockopp-715107a9/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://m.me/JordanBrockopp/">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
+  </a>
+  <a href="https://gophers.slack.com/team/UE43D5DUG/">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbrockopp&custom_title=My%20GitHub%20Stats&hide_border=true&bg_color=4F2683&text_color=FFC62F&title_color=FFC62F&icon_color=FFC62F&show_icons=true&count_private=true"
-    />
+    <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbrockopp&custom_title=My%20GitHub%20Stats&hide_border=true&bg_color=4F2683&text_color=FFC62F&title_color=FFC62F&icon_color=FFC62F&show_icons=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrockopp&custom_title=My%20Top%20Languages&hide_border=true&bg_color=4F2683&text_color=FFC62F&title_color=FFC62F&icon_color=FFC62F"
-    />
+    <img align="center" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrockopp&custom_title=My%20Top%20Languages&hide_border=true&bg_color=4F2683&text_color=FFC62F&title_color=FFC62F&icon_color=FFC62F"/>
   </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 <p align="center">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=JordanBrockopp&style=plastic&color=green"></a>
+  <a href="https://github.com/jbrockopp">
+    <img src="https://badges.pufler.dev/visits/jbrockopp/jbrockopp?color=orange&logo=github"/>
+  </a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=JordanBrockopp&color=green"/>
+  </a>
+  <a href="https://github.com/jbrockopp">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjbrockopp&count_bg=%23FFC62F&icon=&icon_color=%23FFC62F&title=hits&edge_flat=false"/>
+  </a>
 </p>
 
 <!--
