@@ -43,13 +43,19 @@
 
 <p align="center">
   <a href="https://github.com/jbrockopp">
-    <img src="https://badges.pufler.dev/visits/jbrockopp/jbrockopp?color=orange&logo=github"/>
+    <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jbrockopp&custom_title=My%20%20Contribution%20Graph&bg_color=00FFFF&color=000000&line=FF0000&point=FFFFFF&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jbrockopp">
+    <img alt="My Profile Visits" src="https://badges.pufler.dev/visits/jbrockopp/jbrockopp?color=orange&logo=github"/>
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=JordanBrockopp&color=green"/>
+    <img alt="My Profile Views" src="https://komarev.com/ghpvc/?username=JordanBrockopp&color=green"/>
   </a>
   <a href="https://github.com/jbrockopp">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjbrockopp&count_bg=%23FFC62F&icon=&icon_color=%23FFC62F&title=hits&edge_flat=false"/>
+    <img alt="My Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjbrockopp&count_bg=%23FF00FF&icon=&icon_color=%23FFC62F&title=hits&edge_flat=false"/>
   </a>
 </p>
 
