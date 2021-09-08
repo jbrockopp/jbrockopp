@@ -14,34 +14,34 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/jbrockopp">
+  <a href="https://www.cprogramming.com/">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://www.cplusplus.com/">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://elm-lang.org/">
     <img src="https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://golang.org/">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://www.ruby-lang.org/">
     <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   </a>
   <br/><br/>
