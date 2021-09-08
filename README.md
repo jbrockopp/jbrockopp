@@ -16,6 +16,10 @@
   <a href="https://gophers.slack.com/team/UE43D5DUG/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=JordanBrockopp&style=plastic&color=green"></a>
+</p>
+
 <!--
 **jbrockopp/jbrockopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
