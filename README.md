@@ -44,6 +44,8 @@
   <a href="https://github.com/jbrockopp">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   </a>
+  <br/><br/>
+  <b>Note:</b> These languages are listed in no particular order and encompass usage for both personal and professional projects.
 </p>
 
 <h2 align="center">
