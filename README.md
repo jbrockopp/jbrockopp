@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   </a>
   <br/><br/>
-  <b>Note:</b> These languages are listed in no particular order and encompass usage for both personal and professional projects.
+  <b>Note:</b> Languages are listed in no particular order and encompass usage for both personal and professional projects.
 </p>
 
 <h2 align="center">
@@ -53,26 +53,26 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/jbrockopp">
+  <a href="https://www.microsoft.com/en-us/sql-server">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://redis.com/">
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   </a>
-  <a href="https://github.com/jbrockopp">
+  <a href="https://www.sqlite.org/">
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </a>
   <br/><br/>
-  <b>Note:</b> These databases are listed in no particular order and encompass usage for both personal and professional projects.
+  <b>Note:</b> Databases are listed in no particular order and encompass usage for both personal and professional projects.
 </p>
 
 <h2 align="center">
