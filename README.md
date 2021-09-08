@@ -49,6 +49,33 @@
 </p>
 
 <h2 align="center">
+  Databases
+</h2>
+
+<p align="center">
+  <a href="https://github.com/jbrockopp">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jbrockopp">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jbrockopp">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jbrockopp">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jbrockopp">
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jbrockopp">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <b>Note:</b> These databases are listed in no particular order and encompass usage for both personal and professional projects.
+</p>
+
+<h2 align="center">
   Activity
 </h2>
 
