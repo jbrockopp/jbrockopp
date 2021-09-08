@@ -10,31 +10,6 @@
 </p>
 
 <h2 align="center">
-  Contact Me
-</h2>
-
-<p align="center">
-  <a href="https://www.facebook.com/jordan.brockopp/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jbrockopp">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:jdbro94@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jordan-brockopp-715107a9/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://m.me/JordanBrockopp/">
-    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
-  </a>
-  <a href="https://gophers.slack.com/team/UE43D5DUG/">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-  </a>
-</p>
-
-<h2 align="center">
   Languages
 </h2>
 
@@ -59,9 +34,6 @@
   </a>
   <a href="https://github.com/jbrockopp">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jbrockopp">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
   </a>
   <a href="https://github.com/jbrockopp">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -92,6 +64,31 @@
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jbrockopp&custom_title=My%20%20Contribution%20Graph&hide_border=true&bg_color=193549&color=e683d9&line=75eeb2&point=0480ef&area=true"/>
+  </a>
+</p>
+
+<h2 align="center">
+  Contact Me
+</h2>
+
+<p align="center">
+  <a href="https://www.facebook.com/jordan.brockopp/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jbrockopp">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:jdbro94@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jordan-brockopp-715107a9/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://m.me/JordanBrockopp/">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
+  </a>
+  <a href="https://gophers.slack.com/team/UE43D5DUG/">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   </a>
 </p>
 
