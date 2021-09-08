@@ -17,6 +17,19 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbrockopp&custom_title=My%20GitHub%20Stats&hide_border=true&bg_color=4F2683&text_color=FFC62F&title_color=FFC62F&icon_color=FFC62F&show_icons=true&count_private=true"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrockopp&custom_title=My%20Top%20Languages&hide_border=true&bg_color=4F2683&text_color=FFC62F&title_color=FFC62F&icon_color=FFC62F"
+    />
+  </a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+<p align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=JordanBrockopp&style=plastic&color=green"></a>
 </p>
 
