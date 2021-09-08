@@ -30,12 +30,14 @@
   </a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrockopp)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbrockopp&custom_title=My%20GitHub%20Stats&hide_border=true&bg_color=4F2683&text_color=FFC62F&title_color=FFC62F&icon_color=FFC62F&show_icons=true&count_private=true"/>
+    <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbrockopp&custom_title=My%20GitHub%20Stats&hide_border=true&theme=cobalt&show_icons=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrockopp&custom_title=My%20Top%20Languages&hide_border=true&bg_color=4F2683&text_color=FFC62F&title_color=FFC62F&icon_color=FFC62F"/>
+    <img align="center" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrockopp&custom_title=My%20Top%20Languages&hide_border=true&theme=cobalt"/>
   </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -43,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/jbrockopp">
-    <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jbrockopp&custom_title=My%20%20Contribution%20Graph&bg_color=00FFFF&color=000000&line=FF0000&point=FFFFFF&hide_border=true"/>
+    <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jbrockopp&custom_title=My%20%20Contribution%20Graph&bg_color=193549&color=e683d9&line=75eeb2&point=0480ef&hide_border=true"/>
   </a>
 </p>
 
