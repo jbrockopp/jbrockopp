@@ -95,9 +95,6 @@
   <a href="https://www.apple.com/macos/">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
   </a>
-  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/">
-    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-  </a>
   <a href="https://ubuntu.com/">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   </a>
@@ -106,6 +103,36 @@
   </a>
   <br/><br/>
   <b>Note:</b> Operating Systems are listed in no particular order and encompass usage for both personal and professional projects.
+</p>
+
+<h2 align="center">
+  Tools
+</h2>
+
+<p align="center">
+  <a href="https://www.ansible.com/">
+    <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+  </a>
+  <a href="https://cmake.org/">
+    <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  </a>
+  <a href="https://rancher.com/">
+    <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>
+  </a>
+  <a href="https://www.terraform.io/">
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+  </a>
+  <a href="https://www.vagrantup.com/">
+    <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <b>Note:</b> Tools are listed in no particular order and encompass usage for both personal and professional projects.
 </p>
 
 <h2 align="center">
