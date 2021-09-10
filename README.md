@@ -14,6 +14,9 @@
 </h2>
 
 <p align="center">
+  <a href="https://groovy-lang.org/">
+    <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"/>
+  </a>
   <a href="https://www.cprogramming.com/">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   </a>
@@ -22,6 +25,9 @@
   </a>
   <a href="https://www.cplusplus.com/">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
   <a href="https://elm-lang.org/">
     <img src="https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white"/>
@@ -34,6 +40,12 @@
   </a>
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+  <a href="https://www.markdownguide.org/">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -80,6 +92,9 @@
 </h2>
 
 <p align="center">
+  <a href="https://archlinux.org/">
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
+  </a>
   <a href="https://www.alpinelinux.org/">
     <img src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white"/>
   </a>
@@ -92,8 +107,14 @@
   <a href="https://getfedora.org/">
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
   </a>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  </a>
   <a href="https://www.apple.com/macos/">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+  </a>
+  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/">
+    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
   </a>
   <a href="https://ubuntu.com/">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -124,6 +145,9 @@
   </a>
   <a href="https://rancher.com/">
     <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>
+  </a>
+  <a href="https://swagger.io/">
+    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
   </a>
   <a href="https://www.terraform.io/">
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
