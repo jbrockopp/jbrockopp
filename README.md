@@ -9,154 +9,158 @@
   </a>
 </p>
 
-<h2 align="center">
-  Languages
-</h2>
+<table align="center">
+  <thead>
+    <tr>
+      <th>
+        <b>Category</b>
+      </th>
+      <th>
+        <b>Names</b>
+      </th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr> <!--- ############################## Languages ############################## --->
+      <td>Languages</td>
+      <td align="center">
+        <a href="https://groovy-lang.org/">
+          <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"/>
+        </a>
+        <a href="https://www.cprogramming.com/">
+          <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+        </a>
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+          <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+        </a>
+        <a href="https://www.cplusplus.com/">
+          <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+        </a>
+        <a href="https://elm-lang.org/">
+          <img src="https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white"/>
+        </a>
+        <a href="https://golang.org/">
+          <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+        </a>
+        <a href="https://www.java.com/">
+          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+        </a>
+        <a href="https://www.javascript.com/">
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+        </a>
+        <a href="https://www.markdownguide.org/">
+          <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+        </a>
+        <a href="https://www.python.org/">
+          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+        </a>
+        <a href="https://www.ruby-lang.org/">
+          <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+        </a>
+        <a href="https://www.gnu.org/software/bash/">
+          <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr> <!--- ############################## Databases ############################## --->
+      <td>Databases</td>
+      <td align="center">
+        <a href="https://www.microsoft.com/en-us/sql-server">
+          <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+        </a>
+        <a href="https://www.mongodb.com/">
+          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        </a>
+        <a href="https://www.mysql.com/">
+          <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+        </a>
+        <a href="https://www.postgresql.org/">
+          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        </a>
+        <a href="https://redis.com/">
+          <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+        </a>
+        <a href="https://www.sqlite.org/">
+          <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr> <!--- ############################## Operating Systems ############################## --->
+      <td>Operating Systems</td>
+      <td align="center">
+        <a href="https://archlinux.org/">
+          <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
+        </a>
+        <a href="https://www.alpinelinux.org/">
+          <img src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white"/>
+        </a>
+        <a href="https://www.centos.org/">
+          <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0"/>
+        </a>
+        <a href="https://www.debian.org/">
+          <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
+        </a>
+        <a href="https://getfedora.org/">
+          <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+        </a>
+        <a href="https://www.linux.org/">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+        </a>
+        <a href="https://www.apple.com/macos/">
+          <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+        </a>
+        <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/">
+          <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+        </a>
+        <a href="https://ubuntu.com/">
+          <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+        </a>
+        <a href="https://www.microsoft.com/en-us/windows/">
+          <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr> <!--- ############################## Tools ############################## --->
+      <td>Tools</td>
+      <td align="center">
+        <a href="https://www.ansible.com/">
+          <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+        </a>
+        <a href="https://cmake.org/">
+          <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/>
+        </a>
+        <a href="https://www.docker.com/">
+          <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+        </a>
+        <a href="https://kubernetes.io/">
+          <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+        </a>
+        <a href="https://rancher.com/">
+          <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>
+        </a>
+        <a href="https://swagger.io/">
+          <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+        </a>
+        <a href="https://www.terraform.io/">
+          <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+        </a>
+        <a href="https://www.vagrantup.com/">
+          <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
-  <a href="https://groovy-lang.org/">
-    <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"/>
-  </a>
-  <a href="https://www.cprogramming.com/">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  </a>
-  <a href="https://www.cplusplus.com/">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-  <a href="https://elm-lang.org/">
-    <img src="https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white"/>
-  </a>
-  <a href="https://golang.org/">
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  </a>
-  <a href="https://www.markdownguide.org/">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  </a>
-  <a href="https://www.ruby-lang.org/">
-    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <b>Note:</b> Languages are listed in no particular order and encompass usage for both personal and professional projects.
-</p>
-
-<h2 align="center">
-  Databases
-</h2>
-
-<p align="center">
-  <a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </a>
-  <a href="https://redis.com/">
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-  </a>
-  <a href="https://www.sqlite.org/">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <b>Note:</b> Databases are listed in no particular order and encompass usage for both personal and professional projects.
-</p>
-
-<h2 align="center">
-  Operating Systems
-</h2>
-
-<p align="center">
-  <a href="https://archlinux.org/">
-    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
-  </a>
-  <a href="https://www.alpinelinux.org/">
-    <img src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white"/>
-  </a>
-  <a href="https://www.centos.org/">
-    <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0"/>
-  </a>
-  <a href="https://www.debian.org/">
-    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
-  </a>
-  <a href="https://getfedora.org/">
-    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  </a>
-  <a href="https://www.apple.com/macos/">
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
-  </a>
-  <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/">
-    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-  </a>
-  <a href="https://ubuntu.com/">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows/">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <b>Note:</b> Operating Systems are listed in no particular order and encompass usage for both personal and professional projects.
-</p>
-
-<h2 align="center">
-  Tools
-</h2>
-
-<p align="center">
-  <a href="https://www.ansible.com/">
-    <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
-  </a>
-  <a href="https://cmake.org/">
-    <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  </a>
-  <a href="https://kubernetes.io/">
-    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  </a>
-  <a href="https://rancher.com/">
-    <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>
-  </a>
-  <a href="https://swagger.io/">
-    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-  </a>
-  <a href="https://www.terraform.io/">
-    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-  </a>
-  <a href="https://www.vagrantup.com/">
-    <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <b>Note:</b> Tools are listed in no particular order and encompass usage for both personal and professional projects.
+  <b>NOTE:</b> These are listed in no particular order and encompass usage for both personal and professional projects.
 </p>
 
 <h2 align="center">
