@@ -9,6 +9,10 @@
   </a>
 </p>
 
+<h2 align="center">
+  Skills
+</h2>
+
 <table align="center">
   <thead>
     <tr>
@@ -127,11 +131,37 @@
         </a>
       </td>
     </tr>
+    <tr> <!--- ############################## CI/CD ############################## --->
+      <td>CI/CD</td>
+      <td align="center">
+        <a href="https://circleci.com/">
+          <img src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/>
+        </a>
+        <a href="https://www.drone.io/">
+          <img src="https://img.shields.io/badge/drone-enterprise.svg?style=for-the-badge&logo=drone&logoColor=white&color=00abe4"/>
+        </a>
+        <a href="https://docs.github.com/en/actions">
+          <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+        </a>
+        <a href="https://www.jenkins.io/">
+          <img src="https://img.shields.io/badge/jenkins-enterprise.svg?style=for-the-badge&logo=jenkins&logoColor=white&color=2c5263"/>
+        </a>
+        <a href="https://travis-ci.org/">
+          <img src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white"/>
+        </a>
+        <a href="https://go-vela.github.io/">
+          <img src="https://img.shields.io/badge/vela-enterprise.svg?style=for-the-badge&logo=vela&logoColor=white&color=6f42c1"/>
+        </a>
+      </td>
+    </tr>
     <tr> <!--- ############################## Tools ############################## --->
       <td>Tools</td>
       <td align="center">
         <a href="https://www.ansible.com/">
           <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+        </a>
+        <a href="https://www.chef.io/">
+          <img src="https://img.shields.io/badge/chef-enterprise.svg?style=for-the-badge&logo=chef&logoColor=white&color=ef9600"/>
         </a>
         <a href="https://cmake.org/">
           <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/>
@@ -153,6 +183,9 @@
         </a>
         <a href="https://www.vagrantup.com/">
           <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
+        </a>
+        <a href="https://www.vaultproject.io/">
+          <img src="https://img.shields.io/badge/vault-enterprise.svg?style=for-the-badge&logo=vault&logoColor=white&color=black"/>
         </a>
       </td>
     </tr>
