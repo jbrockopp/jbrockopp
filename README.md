@@ -189,8 +189,17 @@
         <a href="https://cmake.org/">
           <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/>
         </a>
+        <a href="https://about.codecov.io/">
+          <img src="https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white"/>
+        </a>
         <a href="https://www.docker.com/">
           <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+        </a>
+        <a href="https://www.elastic.co/">
+          <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+        </a>
+        <a href="https://www.atlassian.com/software/jira">
+          <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
         </a>
         <a href="https://kubernetes.io/">
           <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
