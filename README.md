@@ -36,7 +36,7 @@
           <img src="https://img.shields.io/badge/drone-enterprise.svg?style=for-the-badge&logo=drone&logoColor=white&color=00abe4"/>
         </a>
         <a href="https://docs.github.com/en/actions">
-          <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+          <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
         </a>
         <a href="https://www.jenkins.io/">
           <img src="https://img.shields.io/badge/jenkins-enterprise.svg?style=for-the-badge&logo=jenkins&logoColor=white&color=2c5263"/>
@@ -46,6 +46,26 @@
         </a>
         <a href="https://go-vela.github.io/">
           <img src="https://img.shields.io/badge/vela-enterprise.svg?style=for-the-badge&logo=vela&logoColor=white&color=6f42c1"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Cloud</td> <!--- ############################## Cloud ############################## --->
+      <td align="center">
+        <a href="https://azure.microsoft.com/en-us/">
+          <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+        </a>
+        <a href="https://docs.docker.com/engine/swarm/">
+          <img src="https://img.shields.io/badge/docker%20swarm-enterprise.svg?style=for-the-badge&logo=docker&logoColor=white&color=0db7ed"/>
+        </a>
+        <a href="https://kubernetes.io/">
+          <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+        </a>
+        <a href="https://cloud.google.com/">
+          <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+        </a>
+        <a href="https://www.openstack.org/">
+          <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white"/>
         </a>
       </td>
     </tr>
