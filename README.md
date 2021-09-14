@@ -164,7 +164,7 @@
           <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
         </a>
         <a href="https://rancher.com/docs/os/v1.x/en/">
-          <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>
+          <img src="https://img.shields.io/badge/rancher%20os-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>
         </a>
         <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/">
           <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
