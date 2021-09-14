@@ -26,6 +26,52 @@
   </thead>
 
   <tbody>
+    <tr> <!--- ############################## CI/CD ############################## --->
+      <td>CI/CD</td>
+      <td align="center">
+        <a href="https://circleci.com/">
+          <img src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/>
+        </a>
+        <a href="https://www.drone.io/">
+          <img src="https://img.shields.io/badge/drone-enterprise.svg?style=for-the-badge&logo=drone&logoColor=white&color=00abe4"/>
+        </a>
+        <a href="https://docs.github.com/en/actions">
+          <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+        </a>
+        <a href="https://www.jenkins.io/">
+          <img src="https://img.shields.io/badge/jenkins-enterprise.svg?style=for-the-badge&logo=jenkins&logoColor=white&color=2c5263"/>
+        </a>
+        <a href="https://travis-ci.org/">
+          <img src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white"/>
+        </a>
+        <a href="https://go-vela.github.io/">
+          <img src="https://img.shields.io/badge/vela-enterprise.svg?style=for-the-badge&logo=vela&logoColor=white&color=6f42c1"/>
+        </a>
+      </td>
+    </tr>
+    <tr> <!--- ############################## Databases ############################## --->
+      <td>Databases</td>
+      <td align="center">
+        <a href="https://www.microsoft.com/en-us/sql-server">
+          <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+        </a>
+        <a href="https://www.mongodb.com/">
+          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        </a>
+        <a href="https://www.mysql.com/">
+          <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+        </a>
+        <a href="https://www.postgresql.org/">
+          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        </a>
+        <a href="https://redis.com/">
+          <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+        </a>
+        <a href="https://www.sqlite.org/">
+          <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
     <tr> <!--- ############################## Languages ############################## --->
       <td>Languages</td>
       <td align="center">
@@ -73,29 +119,6 @@
         </a>
       </td>
     </tr>
-    <tr> <!--- ############################## Databases ############################## --->
-      <td>Databases</td>
-      <td align="center">
-        <a href="https://www.microsoft.com/en-us/sql-server">
-          <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-        </a>
-        <a href="https://www.mongodb.com/">
-          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        </a>
-        <a href="https://www.mysql.com/">
-          <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-        </a>
-        <a href="https://www.postgresql.org/">
-          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        </a>
-        <a href="https://redis.com/">
-          <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-        </a>
-        <a href="https://www.sqlite.org/">
-          <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
     <tr> <!--- ############################## Operating Systems ############################## --->
       <td>Operating Systems</td>
       <td align="center">
@@ -120,6 +143,9 @@
         <a href="https://www.apple.com/macos/">
           <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
         </a>
+        <a href="https://rancher.com/docs/os/v1.x/en/">
+          <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>
+        </a>
         <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/">
           <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
         </a>
@@ -128,29 +154,6 @@
         </a>
         <a href="https://www.microsoft.com/en-us/windows/">
           <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr> <!--- ############################## CI/CD ############################## --->
-      <td>CI/CD</td>
-      <td align="center">
-        <a href="https://circleci.com/">
-          <img src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/>
-        </a>
-        <a href="https://www.drone.io/">
-          <img src="https://img.shields.io/badge/drone-enterprise.svg?style=for-the-badge&logo=drone&logoColor=white&color=00abe4"/>
-        </a>
-        <a href="https://docs.github.com/en/actions">
-          <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-        </a>
-        <a href="https://www.jenkins.io/">
-          <img src="https://img.shields.io/badge/jenkins-enterprise.svg?style=for-the-badge&logo=jenkins&logoColor=white&color=2c5263"/>
-        </a>
-        <a href="https://travis-ci.org/">
-          <img src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white"/>
-        </a>
-        <a href="https://go-vela.github.io/">
-          <img src="https://img.shields.io/badge/vela-enterprise.svg?style=for-the-badge&logo=vela&logoColor=white&color=6f42c1"/>
         </a>
       </td>
     </tr>
