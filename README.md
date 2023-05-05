@@ -237,7 +237,6 @@
     <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=jbrockopp&custom_title=My%20GitHub%20Stats&hide_border=true&theme=cobalt&show_icons=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra
     <img align="center" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrockopp&custom_title=My%20Top%20Languages&hide_border=true&theme=cobalt&layout=compact"/>
   </a>
   <br/><br/>
