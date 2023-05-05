@@ -245,7 +245,7 @@
 
 <p align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jbrockopp&custom_title=My%20%20Contribution%20Graph&hide_border=true&bg_color=193549&color=e683d9&line=75eeb2&point=0480ef&area=true"/>
+    <img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jbrockopp&custom_title=My%20%20Contribution%20Graph&hide_border=true&bg_color=193549&color=e683d9&line=75eeb2&point=0480ef&area=true"/>
   </a>
 </p>
 
