@@ -276,7 +276,7 @@
 
 <p align="center">
   <a href="https://github.com/puf17640/git-badges">
-    <img alt="My Profile Visits" src="https://badges.pufler.dev/visits/jbrockopp/jbrockopp?label=Profile%20Visits&color=orange"/>
+    <img alt="My Profile Visits" src="https://badges.strrl.dev/visits/jbrockopp/jbrockopp?label=Profile%20Visits&color=orange"/>
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img alt="My Profile Views" src="https://komarev.com/ghpvc/?username=jbrockopp&label=Profile+Views&color=orange"/>
